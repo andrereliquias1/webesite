@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-image: url(backgroundimg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+#herdade {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  margin-left: 30px;
+}
+
+#shop {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(13, 14, 13);
+  margin-left: 20px;
+  margin-top: 50px;
+}

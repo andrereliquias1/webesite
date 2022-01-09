@@ -1,0 +1,18 @@
+@import url(globalstyles.css);
+
+#herdade {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  margin-left: 30px;
+}
+#lorem {
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+#links_ {
+  margin-left: 30px;
+  word-spacing: 20px;
+}
